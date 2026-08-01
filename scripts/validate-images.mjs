@@ -104,7 +104,7 @@ async function main() {
           if (meta.width !== w || meta.height !== expectedH) {
             problems.push(`${urlPath} [${kind}] ${path.basename(f)}: ${meta.width}x${meta.height} != ${w}x${expectedH}`);
           }
-          const fmt = meta.format === "jpeg" ? "jpg" : meta.format;
+          const fmt = meta.format === "jpeg" ? "jpg" : meta.format === "heif" ? "avif" : meta.format;
           if (fmt !== rec.format) {
             problems.push(`${urlPath} [${kind}] ${path.basename(f)}: format ${fmt} != ${rec.format}`);
           }

@@ -91,11 +91,15 @@ async function main() {
         optimized += variants.length;
         report.push(`ok       ${urlPath}  (${kind}, ${variants.length} variants)`);
       } else if (kind === "pin") {
-        await sharp(source).resize(1000, 1500, { fit: "cover", position: "top" }).rotate().jpeg({ quality: 82 }).toFile(path.join(pinDir, `${asset.key}-pin-1000x1500.jpg`));
+        const pinFile = path.join(pinDir, `${asset.key}-pin-1000x1500.jpg`);
+        fs.mkdirSync(path.dirname(pinFile), { recursive: true });
+        await sharp(source).resize(1000, 1500, { fit: "cover", position: "top" }).rotate().jpeg({ quality: 82 }).toFile(pinFile);
         optimized += 1;
         report.push(`ok       ${urlPath}  (pin 1000x1500)`);
       } else if (kind === "og") {
-        await sharp(source).resize(1200, 630, { fit: "cover", position: "centre" }).rotate().jpeg({ quality: 80 }).toFile(path.join(ogDir, `${asset.key}-og-1200x630.jpg`));
+        const ogFile = path.join(ogDir, `${asset.key}-og-1200x630.jpg`);
+        fs.mkdirSync(path.dirname(ogFile), { recursive: true });
+        await sharp(source).resize(1200, 630, { fit: "cover", position: "centre" }).rotate().jpeg({ quality: 80 }).toFile(ogFile);
         optimized += 1;
         report.push(`ok       ${urlPath}  (og 1200x630)`);
       }

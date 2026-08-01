@@ -166,6 +166,8 @@ function buildRecord(fm, asset, kind, index, keywords) {
       : asset.alt;
   const title = kind === "pinterest" ? `${fm.h1 ?? fm.title}: Shelf Life & Storage Guide` : imageTitle(alt);
   const description = descriptionFor(subject, scene);
+  const src = actualSrc(asset);
+  const format = String(src).split(".").pop();
   const record = {
     filename,
     title,
@@ -174,7 +176,7 @@ function buildRecord(fm, asset, kind, index, keywords) {
     description,
     width: asset.width,
     height: asset.height,
-    format: cfg.format,
+    format,
     priority: cfg.priority,
     loading: cfg.loading,
     fetchPriority: cfg.fetchPriority,
@@ -192,7 +194,7 @@ function buildRecord(fm, asset, kind, index, keywords) {
           }
         : undefined,
     structuredData: null,
-    src: actualSrc(asset),
+    src,
     quality: { status: "pending-human-review", machineChecks: [] },
   };
   record.structuredData = imageObject(asset, record, fm, kind, index);

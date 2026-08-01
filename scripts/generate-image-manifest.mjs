@@ -218,7 +218,7 @@ function promptFor(fm, subject, scene, kind) {
 /* ------------------------------------------------------------------ */
 const keyOf = (urlPath) => urlPath.replace(/^\/+|\/+$/g, "").split("/").join("/");
 
-function asset(fm, { kind, variant, width, height, subject, scene, prompt, alt, caption, placement, sizes, widths, source }) {
+function asset(fm, { kind, variant, width, height, subject, scene, prompt, alt, caption, placement, sizes, widths, source, basePath }) {
   const key = keyOf(fm.urlPath);
   return {
     kind,
@@ -236,7 +236,7 @@ function asset(fm, { kind, variant, width, height, subject, scene, prompt, alt, 
     height,
     sizes: sizes ?? null,
     widths: widths ?? null,
-    basePath: `/images/optimized/${key}/${variant}`,
+    basePath: basePath ?? `/images/optimized/${key}/${variant}`,
     source: source ?? `/images/source/${key}/${variant}.jpg`,
     variants: null,
   };

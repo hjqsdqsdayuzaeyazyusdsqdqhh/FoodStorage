@@ -66,8 +66,10 @@ async function main() {
               IFD3: {},
             },
           });
-        const fmt = meta.format === "jpeg" ? "jpeg" : meta.format;
-        await out[fmt]({ quality: 80 }).toFile(f.replace(/\.[^.]+$/, ".meta-tmp." + fmt)).then(async () => {
+        const rawFmt = meta.format === "jpeg" ? "jpeg" : meta.format === "heif" ? "avif" : meta.format;
+        const fmt = rawFmt === "avif" || rawFmt === "webp" || rawFmt === "jpeg" ? rawFmt : "jpeg";
+        const encoder = fmt === "avif" ? out.avif({ quality: 80 }) : fmt === "webp" ? out.webp({ quality: 80 }) : out.jpeg({ quality: 80 });
+        await encoder.toFile(f.replace(/\.[^.]+$/, ".meta-tmp." + fmt)).then(async () => {
           fs.renameSync(f.replace(/\.[^.]+$/, ".meta-tmp." + fmt), f);
         });
         written += 1;
