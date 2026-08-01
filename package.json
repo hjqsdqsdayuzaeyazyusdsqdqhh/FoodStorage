@@ -12,7 +12,8 @@
     "images:check": "node scripts/optimize-images.mjs --check",
     "images:seo": "node scripts/generate-image-seo.mjs",
     "images:validate": "node scripts/validate-images.mjs",
-    "images:meta": "node scripts/embed-image-meta.mjs"
+    "images:meta": "node scripts/embed-image-meta.mjs",
+    "images:generate": "node scripts/generate-images.mjs"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
