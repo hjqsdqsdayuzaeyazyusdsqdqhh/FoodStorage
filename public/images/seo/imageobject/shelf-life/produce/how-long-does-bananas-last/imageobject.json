@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-bananas-last/hero-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-bananas-last/hero-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-bananas-last/hero-1600w.avif",
+      "name": "Ripe bananas stored in an airtight glass container on a pantry shelf",
+      "caption": "Airtight storage keeps ripe bananas fresh for its full shelf life.",
+      "description": "Ripe bananas in a clear airtight glass container on a natural wood pantry shelf surrounded by organized jars and canisters. Editorial photograph, bright natural light, premium maga",
+      "width": 1600,
+      "height": 900,
+      "encodingFormat": "image/avif",
+      "representativeOfPage": true
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-bananas-last/support-1200w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-bananas-last/support-1200w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-bananas-last/support-1200w.avif",
+      "name": "Ripe bananas stored in an airtight glass container on a pantry shelf — supporting storage detail",
+      "caption": "Detail: ripe bananas in airtight storage.",
+      "description": "Ripe bananas in a clear airtight glass container on a natural wood pantry shelf surrounded by organized jars and canisters. Editorial photograph, bright natural light, premium maga",
+      "width": 1200,
+      "height": 675,
+      "encodingFormat": "image/avif",
+      "representativeOfPage": false
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-bananas-last/pin-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-bananas-last/pin-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-bananas-last/pin-1600w.avif",
+      "name": "How Long Do Bananas Last?: Shelf Life & Storage Guide",
+      "description": "Ripe bananas in a clear airtight glass container on a natural wood pantry shelf surrounded by organized jars and canisters. Editorial photograph, bright natural light, premium maga",
+      "width": 1000,
+      "height": 1500,
+      "encodingFormat": "image/webp",
+      "representativeOfPage": false
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-bananas-last/og-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-bananas-last/og-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-bananas-last/og-1600w.avif",
+      "name": "Ripe bananas stored in an airtight glass container on a pantry shelf",
+      "description": "Ripe bananas in a clear airtight glass container on a natural wood pantry shelf surrounded by organized jars and canisters. Editorial photograph, bright natural light, premium maga",
+      "width": 1200,
+      "height": 630,
+      "encodingFormat": "image/jpg",
+      "representativeOfPage": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/authors/rebecca-torres/portrait-600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/authors/rebecca-torres/portrait-600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/authors/rebecca-torres/portrait-600w.avif",
+      "name": "Portrait of Rebecca Torres, RD, Editor-in-Chief & Food Safety Reviewer",
+      "description": "A bright modern organized kitchen a bright modern organized kitchen pantry. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 600,
+      "height": 600,
+      "encodingFormat": "image/webp",
+      "representativeOfPage": false
+    }
+  ]
+}

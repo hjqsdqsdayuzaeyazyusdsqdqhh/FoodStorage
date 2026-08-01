@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-salmon-last/hero-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-salmon-last/hero-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-salmon-last/hero-1600w.avif",
+      "name": "Fresh salmon fillets wrapped airtight and ready for the freezer",
+      "caption": "Airtight storage keeps fresh salmon fillets fresh for its full shelf life.",
+      "description": "Fresh salmon fillets portioned and wrapped in airtight freezer packaging on a clean white kitchen counter. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1600,
+      "height": 900,
+      "encodingFormat": "image/avif",
+      "representativeOfPage": true
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-salmon-last/support-1200w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-salmon-last/support-1200w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-salmon-last/support-1200w.avif",
+      "name": "Fresh salmon fillets wrapped airtight and ready for the freezer — supporting storage detail",
+      "caption": "Detail: fresh salmon fillets in airtight storage.",
+      "description": "Fresh salmon fillets portioned and wrapped in airtight freezer packaging on a clean white kitchen counter. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1200,
+      "height": 675,
+      "encodingFormat": "image/avif",
+      "representativeOfPage": false
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-salmon-last/pin-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-salmon-last/pin-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-salmon-last/pin-1600w.avif",
+      "name": "How Long Does Salmon Last?: Shelf Life & Storage Guide",
+      "description": "Fresh salmon fillets portioned and wrapped in airtight freezer packaging on a clean white kitchen counter. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1000,
+      "height": 1500,
+      "encodingFormat": "image/webp",
+      "representativeOfPage": false
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-salmon-last/og-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-salmon-last/og-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-salmon-last/og-1600w.avif",
+      "name": "Fresh salmon fillets wrapped airtight and ready for the freezer",
+      "description": "Fresh salmon fillets portioned and wrapped in airtight freezer packaging on a clean white kitchen counter. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1200,
+      "height": 630,
+      "encodingFormat": "image/jpg",
+      "representativeOfPage": false
+    }
+  ]
+}

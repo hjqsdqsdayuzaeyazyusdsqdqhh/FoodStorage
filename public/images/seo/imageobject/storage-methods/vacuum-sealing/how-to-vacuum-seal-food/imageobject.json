@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/storage-methods/vacuum-sealing/how-to-vacuum-seal-food/hero-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/storage-methods/vacuum-sealing/how-to-vacuum-seal-food/hero-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/storage-methods/vacuum-sealing/how-to-vacuum-seal-food/hero-1600w.avif",
+      "name": "Vacuum-sealed food pouches sealed in vacuum pouches for long-term storage",
+      "caption": "Proper airtight storage keeps vacuum-sealed food pouches fresh for months.",
+      "description": "Vacuum-sealed food pouches vacuum-sealed pouches of food on a clean white kitchen counter. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1600,
+      "height": 900,
+      "encodingFormat": "image/avif",
+      "representativeOfPage": true
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/storage-methods/vacuum-sealing/how-to-vacuum-seal-food/support-1200w.avif",
+      "url": "https://homestorageguide.com/images/optimized/storage-methods/vacuum-sealing/how-to-vacuum-seal-food/support-1200w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/storage-methods/vacuum-sealing/how-to-vacuum-seal-food/support-1200w.avif",
+      "name": "Vacuum-sealed food pouches sealed in vacuum pouches for long-term storage — supporting storage detail",
+      "caption": "Detail: vacuum-sealed food pouches in airtight storage.",
+      "description": "Vacuum-sealed food pouches vacuum-sealed pouches of food on a clean white kitchen counter. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1200,
+      "height": 675,
+      "encodingFormat": "image/avif",
+      "representativeOfPage": false
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/storage-methods/vacuum-sealing/how-to-vacuum-seal-food/pin-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/storage-methods/vacuum-sealing/how-to-vacuum-seal-food/pin-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/storage-methods/vacuum-sealing/how-to-vacuum-seal-food/pin-1600w.avif",
+      "name": "How to Vacuum Seal Food: Shelf Life & Storage Guide",
+      "description": "Vacuum-sealed food pouches vacuum-sealed pouches of food on a clean white kitchen counter. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1000,
+      "height": 1500,
+      "encodingFormat": "image/webp",
+      "representativeOfPage": false
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/storage-methods/vacuum-sealing/how-to-vacuum-seal-food/og-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/storage-methods/vacuum-sealing/how-to-vacuum-seal-food/og-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/storage-methods/vacuum-sealing/how-to-vacuum-seal-food/og-1600w.avif",
+      "name": "Vacuum-sealed food pouches sealed in vacuum pouches for long-term storage",
+      "description": "Vacuum-sealed food pouches vacuum-sealed pouches of food on a clean white kitchen counter. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1200,
+      "height": 630,
+      "encodingFormat": "image/jpg",
+      "representativeOfPage": false
+    }
+  ]
+}

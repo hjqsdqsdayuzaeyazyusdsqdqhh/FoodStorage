@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/about/hero-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/about/hero-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/about/hero-1600w.avif",
+      "name": "A bright modern organized kitchen arranged in a bright, organized pantry",
+      "description": "A bright modern organized kitchen a bright modern organized kitchen pantry. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1600,
+      "height": 900,
+      "encodingFormat": "image/avif",
+      "representativeOfPage": true
+    }
+  ]
+}

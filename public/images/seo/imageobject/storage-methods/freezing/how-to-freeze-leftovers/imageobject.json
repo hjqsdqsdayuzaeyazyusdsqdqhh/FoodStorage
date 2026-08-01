@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/storage-methods/freezing/how-to-freeze-leftovers/hero-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/storage-methods/freezing/how-to-freeze-leftovers/hero-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/storage-methods/freezing/how-to-freeze-leftovers/hero-1600w.avif",
+      "name": "Cooked leftovers in glass containers portioned into freezer-safe containers for freezing",
+      "caption": "Proper airtight storage keeps cooked leftovers in glass containers fresh for months.",
+      "description": "Cooked leftovers in glass containers portioned into labeled freezer bags and glass containers on a clean white kitchen counter. Editorial photograph, bright natural light, premium ",
+      "width": 1600,
+      "height": 900,
+      "encodingFormat": "image/avif",
+      "representativeOfPage": true
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/storage-methods/freezing/how-to-freeze-leftovers/support-1200w.avif",
+      "url": "https://homestorageguide.com/images/optimized/storage-methods/freezing/how-to-freeze-leftovers/support-1200w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/storage-methods/freezing/how-to-freeze-leftovers/support-1200w.avif",
+      "name": "Cooked leftovers in glass containers portioned into freezer-safe containers for freezing — supporting storage detail",
+      "caption": "Detail: cooked leftovers in glass containers in airtight storage.",
+      "description": "Cooked leftovers in glass containers portioned into labeled freezer bags and glass containers on a clean white kitchen counter. Editorial photograph, bright natural light, premium ",
+      "width": 1200,
+      "height": 675,
+      "encodingFormat": "image/avif",
+      "representativeOfPage": false
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/storage-methods/freezing/how-to-freeze-leftovers/pin-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/storage-methods/freezing/how-to-freeze-leftovers/pin-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/storage-methods/freezing/how-to-freeze-leftovers/pin-1600w.avif",
+      "name": "How to Freeze Leftovers: Shelf Life & Storage Guide",
+      "description": "Cooked leftovers in glass containers portioned into labeled freezer bags and glass containers on a clean white kitchen counter. Editorial photograph, bright natural light, premium ",
+      "width": 1000,
+      "height": 1500,
+      "encodingFormat": "image/webp",
+      "representativeOfPage": false
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/storage-methods/freezing/how-to-freeze-leftovers/og-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/storage-methods/freezing/how-to-freeze-leftovers/og-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/storage-methods/freezing/how-to-freeze-leftovers/og-1600w.avif",
+      "name": "Cooked leftovers in glass containers portioned into freezer-safe containers for freezing",
+      "description": "Cooked leftovers in glass containers portioned into labeled freezer bags and glass containers on a clean white kitchen counter. Editorial photograph, bright natural light, premium ",
+      "width": 1200,
+      "height": 630,
+      "encodingFormat": "image/jpg",
+      "representativeOfPage": false
+    }
+  ]
+}

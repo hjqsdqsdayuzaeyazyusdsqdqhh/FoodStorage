@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-onions-last/hero-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-onions-last/hero-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-onions-last/hero-1600w.avif",
+      "name": "Onions in a mesh bag stored in an airtight glass container on a pantry shelf",
+      "caption": "Airtight storage keeps onions in a mesh bag fresh for its full shelf life.",
+      "description": "Onions in a mesh bag in a clear airtight glass container on a natural wood pantry shelf surrounded by organized jars and canisters. Editorial photograph, bright natural light, prem",
+      "width": 1600,
+      "height": 900,
+      "encodingFormat": "image/avif",
+      "representativeOfPage": true
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-onions-last/support-1200w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-onions-last/support-1200w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-onions-last/support-1200w.avif",
+      "name": "Onions in a mesh bag stored in an airtight glass container on a pantry shelf — supporting storage detail",
+      "caption": "Detail: onions in a mesh bag in airtight storage.",
+      "description": "Onions in a mesh bag in a clear airtight glass container on a natural wood pantry shelf surrounded by organized jars and canisters. Editorial photograph, bright natural light, prem",
+      "width": 1200,
+      "height": 675,
+      "encodingFormat": "image/avif",
+      "representativeOfPage": false
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-onions-last/pin-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-onions-last/pin-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-onions-last/pin-1600w.avif",
+      "name": "How Long Do Onions Last?: Shelf Life & Storage Guide",
+      "description": "Onions in a mesh bag in a clear airtight glass container on a natural wood pantry shelf surrounded by organized jars and canisters. Editorial photograph, bright natural light, prem",
+      "width": 1000,
+      "height": 1500,
+      "encodingFormat": "image/webp",
+      "representativeOfPage": false
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-onions-last/og-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-onions-last/og-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/produce/how-long-does-onions-last/og-1600w.avif",
+      "name": "Onions in a mesh bag stored in an airtight glass container on a pantry shelf",
+      "description": "Onions in a mesh bag in a clear airtight glass container on a natural wood pantry shelf surrounded by organized jars and canisters. Editorial photograph, bright natural light, prem",
+      "width": 1200,
+      "height": 630,
+      "encodingFormat": "image/jpg",
+      "representativeOfPage": false
+    }
+  ]
+}

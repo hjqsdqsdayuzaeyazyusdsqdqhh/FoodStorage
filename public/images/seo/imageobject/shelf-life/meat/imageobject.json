@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/meat/hero-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/meat/hero-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/meat/hero-1600w.avif",
+      "name": "Meat portions arranged in a bright, organized pantry",
+      "description": "Meat portions a tidy arrangement of meat portions in a clean modern refrigerator. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1600,
+      "height": 900,
+      "encodingFormat": "image/avif",
+      "representativeOfPage": true
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/meat/pin-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/meat/pin-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/meat/pin-1600w.avif",
+      "name": "Meat & Seafood Shelf Life: Shelf Life & Storage Guide",
+      "description": "Meat portions a tidy arrangement of meat portions in a clean modern refrigerator. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1000,
+      "height": 1500,
+      "encodingFormat": "image/webp",
+      "representativeOfPage": false
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/meat/og-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/meat/og-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/meat/og-1600w.avif",
+      "name": "Meat portions arranged in a bright, organized pantry",
+      "description": "Meat portions a tidy arrangement of meat portions in a clean modern refrigerator. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1200,
+      "height": 630,
+      "encodingFormat": "image/jpg",
+      "representativeOfPage": false
+    }
+  ]
+}

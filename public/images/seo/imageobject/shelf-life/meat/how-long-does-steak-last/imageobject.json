@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-steak-last/hero-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-steak-last/hero-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-steak-last/hero-1600w.avif",
+      "name": "A raw marbled steak wrapped airtight and ready for the freezer",
+      "caption": "Airtight storage keeps a raw marbled steak fresh for its full shelf life.",
+      "description": "A raw marbled steak portioned and wrapped in airtight freezer packaging on a clean white kitchen counter. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1600,
+      "height": 900,
+      "encodingFormat": "image/avif",
+      "representativeOfPage": true
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-steak-last/support-1200w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-steak-last/support-1200w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-steak-last/support-1200w.avif",
+      "name": "A raw marbled steak wrapped airtight and ready for the freezer — supporting storage detail",
+      "caption": "Detail: a raw marbled steak in airtight storage.",
+      "description": "A raw marbled steak portioned and wrapped in airtight freezer packaging on a clean white kitchen counter. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1200,
+      "height": 675,
+      "encodingFormat": "image/avif",
+      "representativeOfPage": false
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-steak-last/pin-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-steak-last/pin-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-steak-last/pin-1600w.avif",
+      "name": "How Long Does Steak Last?: Shelf Life & Storage Guide",
+      "description": "A raw marbled steak portioned and wrapped in airtight freezer packaging on a clean white kitchen counter. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1000,
+      "height": 1500,
+      "encodingFormat": "image/webp",
+      "representativeOfPage": false
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-steak-last/og-1600w.avif",
+      "url": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-steak-last/og-1600w.avif",
+      "contentUrl": "https://homestorageguide.com/images/optimized/shelf-life/meat/how-long-does-steak-last/og-1600w.avif",
+      "name": "A raw marbled steak wrapped airtight and ready for the freezer",
+      "description": "A raw marbled steak portioned and wrapped in airtight freezer packaging on a clean white kitchen counter. Editorial photograph, bright natural light, premium magazine quality.",
+      "width": 1200,
+      "height": 630,
+      "encodingFormat": "image/jpg",
+      "representativeOfPage": false
+    }
+  ]
+}
