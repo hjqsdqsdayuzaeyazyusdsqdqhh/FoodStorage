@@ -24,3 +24,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# generated image masters + optimized output (see docs/IMAGE-SYSTEM.md)
+/public/images/source/
+/public/images/optimized/
+/public/images/pins/
+/public/images/og/

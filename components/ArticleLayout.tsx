@@ -9,6 +9,7 @@ import { AuthorBox } from "@/components/AuthorBox";
 import { RelatedContent } from "@/components/RelatedContent";
 import { NewsletterBlock } from "@/components/NewsletterBlock";
 import { Badge } from "@/components/Badge";
+import { ArticleHeroImage, ArticleSupportImage } from "@/components/ArticleImage";
 import { IconClock } from "@/components/icons";
 
 export function extractHeadings(html: string): { id: string; label: string }[] {
@@ -85,6 +86,8 @@ export function ArticleLayout({
             <Byline page={page} />
           </header>
 
+          <ArticleHeroImage page={page} />
+
           {page.snippetAnswer ? <QuickAnswer text={page.snippetAnswer} /> : null}
 
           {headings.length >= 3 ? <Toc items={headings} /> : null}
@@ -92,6 +95,8 @@ export function ArticleLayout({
           {page.bodyHtml ? (
             <div className="prose" dangerouslySetInnerHTML={{ __html: page.bodyHtml }} />
           ) : null}
+
+          <ArticleSupportImage page={page} />
 
           {extraContent}
 
