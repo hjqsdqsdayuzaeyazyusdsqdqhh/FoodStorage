@@ -220,3 +220,24 @@ export function getAuthorArticles(authorSlug: string): ContentPage[] {
 export function getTopAnswers(count = 5): ContentPage[] {
   return registry.byTemplate("shelfLife").slice(0, count);
 }
+
+/** Approximate read time in minutes, derived from the page's rendered body. */
+export function readingMinutes(page: ContentPage): number {
+  if (!page.bodyHtml) return 3;
+  const text = page.bodyHtml
+    .replace(/<[^>]+>/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+  const words = text ? text.split(" ").length : 0;
+  return Math.max(1, Math.round(words / 200));
+}
+
+/** Newest published food and guide pages (published date, then review date, then edit recency). */
+export function getLatestArticles(count = 6): ContentPage[] {
+  const key = (p: ContentPage) => `${p.publishedDate}|${p.reviewedDate}|${p.fileMtime ?? ""}`;
+  return registry
+    .all()
+    .filter((p) => p.template === "shelfLife" || p.template === "guide" || p.template === "pantryGuide")
+    .sort((a, b) => key(b).localeCompare(key(a)))
+    .slice(0, count);
+}

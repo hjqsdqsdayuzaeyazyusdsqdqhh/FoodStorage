@@ -230,6 +230,17 @@
     border-color: var(--color-brand-green-500);
   }
 
+  /* Homepage cards — deeper resting shadow + hover lift (homepage sections only). */
+  .card--lift {
+    box-shadow: var(--shadow-soft);
+    transition: box-shadow 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+  }
+  .card--lift:hover {
+    box-shadow: var(--shadow-lift);
+    border-color: var(--color-brand-green-500);
+    transform: translateY(-3px);
+  }
+
   /* Buttons */
   .btn {
     display: inline-flex;
