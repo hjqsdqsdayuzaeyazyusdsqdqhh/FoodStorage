@@ -11,8 +11,8 @@ const heroTrust = [
 export function Hero() {
   return (
     <section className="bg-brand-green-700 text-brand-paper">
-      <div className="container-site py-12 lg:py-16">
-        <div className="grid grid-cols-1 items-center gap-10 lg:grid-cols-[1.05fr_0.95fr]">
+      <div className="container-site py-12 lg:py-[80px]">
+        <div className="grid grid-cols-1 items-center gap-10 lg:grid-cols-[1fr_1.1fr]">
           <div>
             <span className="badge badge--verified">300+ foods, exact shelf lives</span>
             <h1 className="mt-4 max-w-3xl text-display font-extrabold leading-tight text-brand-paper">
@@ -46,7 +46,7 @@ export function Hero() {
               loading="eager"
               priority
               fetchPriority="high"
-              className="h-auto w-full rounded-3xl object-contain shadow-soft"
+              className="h-auto w-full rounded-[28px] object-contain shadow-lift"
             />
           </div>
         </div>
