@@ -1,3 +1,4 @@
+import Image from "next/image";
 import type { ContentPage } from "@/lib/types";
 import { getPageOrThrow, readingMinutes } from "@/lib/content";
 import { pinUrl } from "@/lib/pins";
@@ -5,20 +6,13 @@ import { IconArrowRight, IconClock } from "@/components/icons";
 import { Section, SectionHeading } from "./Section";
 
 const POPULAR = [
-  { path: "/shelf-life/dairy/how-long-does-milk-last", emoji: "🥛", tone: "amber" },
-  { path: "/shelf-life/dairy/how-long-does-eggs-last", emoji: "🥚", tone: "soft" },
-  { path: "/shelf-life/pantry/how-long-does-bread-last", emoji: "🍞", tone: "green" },
-  { path: "/shelf-life/pantry/how-long-does-rice-last", emoji: "🍚", tone: "paper" },
-  { path: "/pantry-organization/pantry-container-guide", emoji: "🫙", tone: "amber" },
-  { path: "/storage-methods/freezing/how-to-freeze-meat", emoji: "🥩", tone: "green" },
+  { path: "/shelf-life/dairy/how-long-does-milk-last", image: "/images/home/milk.webp" },
+  { path: "/shelf-life/dairy/how-long-does-eggs-last", image: "/images/home/eggs.webp" },
+  { path: "/shelf-life/pantry/how-long-does-bread-last", image: "/images/home/bread.webp" },
+  { path: "/shelf-life/pantry/how-long-does-rice-last", image: "/images/home/rice.webp" },
+  { path: "/pantry-organization/pantry-container-guide", image: "/images/home/pantry-containers.webp" },
+  { path: "/storage-methods/freezing/how-to-freeze-meat", image: "/images/home/freeze-meat.webp" },
 ];
-
-const TONES: Record<string, string> = {
-  amber: "bg-brand-amber-100",
-  green: "bg-brand-green-100",
-  soft: "bg-brand-paper-soft",
-  paper: "bg-brand-paper",
-};
 
 const CATEGORY_LABEL: Record<string, string> = {
   dairy: "Dairy & eggs",
@@ -47,18 +41,21 @@ export function PopularGuides() {
         linkLabel="All shelf-life guides"
       />
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {guides.map(({ page, emoji, tone }) => (
+        {guides.map(({ page, image }) => (
           <a
             key={page.urlPath}
             href={page.urlPath}
             data-pin-media={pinUrl(page.urlPath)}
             className="card card--lift group flex flex-col gap-3 no-underline hover:no-underline"
           >
-            <span
-              className={`flex aspect-[16/10] items-center justify-center rounded-lg border border-brand-line ${TONES[tone] ?? "bg-brand-paper-soft"}`}
-              aria-hidden="true"
-            >
-              <span className="text-4xl drop-shadow-sm">{emoji}</span>
+            <span className="relative block aspect-[16/10] overflow-hidden rounded-lg border border-brand-line">
+              <Image
+                src={image}
+                alt=""
+                fill
+                sizes="(min-width: 1024px) 373px, (min-width: 640px) 50vw, 100vw"
+                className="object-cover"
+              />
             </span>
             <span className="text-micro font-semibold uppercase tracking-wide text-brand-green-700">
               {categoryLabel(page)}
