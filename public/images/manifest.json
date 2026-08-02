@@ -22,20 +22,7 @@
         ],
         "basePath": "/images/optimized/authors/james-okafor/portrait",
         "source": "/images/source/authors/james-okafor/portrait.jpg",
-        "variants": [
-          {
-            "width": 300,
-            "avif": "/images/optimized/authors/james-okafor/portrait-300w.avif",
-            "webp": "/images/optimized/authors/james-okafor/portrait-300w.webp",
-            "jpg": "/images/optimized/authors/james-okafor/portrait-300w.jpg"
-          },
-          {
-            "width": 600,
-            "avif": "/images/optimized/authors/james-okafor/portrait-600w.avif",
-            "webp": "/images/optimized/authors/james-okafor/portrait-600w.webp",
-            "jpg": "/images/optimized/authors/james-okafor/portrait-600w.jpg"
-          }
-        ]
+        "variants": null
       }
     }
   },
@@ -62,20 +49,7 @@
         ],
         "basePath": "/images/optimized/authors/rebecca-torres/portrait",
         "source": "/images/source/authors/rebecca-torres/portrait.jpg",
-        "variants": [
-          {
-            "width": 300,
-            "avif": "/images/optimized/authors/rebecca-torres/portrait-300w.avif",
-            "webp": "/images/optimized/authors/rebecca-torres/portrait-300w.webp",
-            "jpg": "/images/optimized/authors/rebecca-torres/portrait-300w.jpg"
-          },
-          {
-            "width": 600,
-            "avif": "/images/optimized/authors/rebecca-torres/portrait-600w.avif",
-            "webp": "/images/optimized/authors/rebecca-torres/portrait-600w.webp",
-            "jpg": "/images/optimized/authors/rebecca-torres/portrait-600w.jpg"
-          }
-        ]
+        "variants": null
       }
     }
   },
@@ -163,32 +137,7 @@
         ],
         "basePath": "/images/optimized/pantry-organization/how-to-label-pantry-containers/hero",
         "source": "/images/source/pantry-organization/how-to-label-pantry-containers/hero.jpg",
-        "variants": [
-          {
-            "width": 400,
-            "avif": "/images/optimized/pantry-organization/how-to-label-pantry-containers/hero-400w.avif",
-            "webp": "/images/optimized/pantry-organization/how-to-label-pantry-containers/hero-400w.webp",
-            "jpg": "/images/optimized/pantry-organization/how-to-label-pantry-containers/hero-400w.jpg"
-          },
-          {
-            "width": 800,
-            "avif": "/images/optimized/pantry-organization/how-to-label-pantry-containers/hero-800w.avif",
-            "webp": "/images/optimized/pantry-organization/how-to-label-pantry-containers/hero-800w.webp",
-            "jpg": "/images/optimized/pantry-organization/how-to-label-pantry-containers/hero-800w.jpg"
-          },
-          {
-            "width": 1200,
-            "avif": "/images/optimized/pantry-organization/how-to-label-pantry-containers/hero-1200w.avif",
-            "webp": "/images/optimized/pantry-organization/how-to-label-pantry-containers/hero-1200w.webp",
-            "jpg": "/images/optimized/pantry-organization/how-to-label-pantry-containers/hero-1200w.jpg"
-          },
-          {
-            "width": 1600,
-            "avif": "/images/optimized/pantry-organization/how-to-label-pantry-containers/hero-1600w.avif",
-            "webp": "/images/optimized/pantry-organization/how-to-label-pantry-containers/hero-1600w.webp",
-            "jpg": "/images/optimized/pantry-organization/how-to-label-pantry-containers/hero-1600w.jpg"
-          }
-        ]
+        "variants": null
       },
       "support": {
         "kind": "support",
@@ -212,26 +161,7 @@
         ],
         "basePath": "/images/optimized/pantry-organization/how-to-label-pantry-containers/support",
         "source": "/images/source/pantry-organization/how-to-label-pantry-containers/support.jpg",
-        "variants": [
-          {
-            "width": 400,
-            "avif": "/images/optimized/pantry-organization/how-to-label-pantry-containers/support-400w.avif",
-            "webp": "/images/optimized/pantry-organization/how-to-label-pantry-containers/support-400w.webp",
-            "jpg": "/images/optimized/pantry-organization/how-to-label-pantry-containers/support-400w.jpg"
-          },
-          {
-            "width": 800,
-            "avif": "/images/optimized/pantry-organization/how-to-label-pantry-containers/support-800w.avif",
-            "webp": "/images/optimized/pantry-organization/how-to-label-pantry-containers/support-800w.webp",
-            "jpg": "/images/optimized/pantry-organization/how-to-label-pantry-containers/support-800w.jpg"
-          },
-          {
-            "width": 1200,
-            "avif": "/images/optimized/pantry-organization/how-to-label-pantry-containers/support-1200w.avif",
-            "webp": "/images/optimized/pantry-organization/how-to-label-pantry-containers/support-1200w.webp",
-            "jpg": "/images/optimized/pantry-organization/how-to-label-pantry-containers/support-1200w.jpg"
-          }
-        ]
+        "variants": null
       },
       "pin": {
         "kind": "pin",
@@ -2867,32 +2797,7 @@
         ],
         "basePath": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/hero",
         "source": "/images/source/shelf-life/pantry/how-long-does-rice-last/hero.jpg",
-        "variants": [
-          {
-            "width": 400,
-            "avif": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/hero-400w.avif",
-            "webp": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/hero-400w.webp",
-            "jpg": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/hero-400w.jpg"
-          },
-          {
-            "width": 800,
-            "avif": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/hero-800w.avif",
-            "webp": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/hero-800w.webp",
-            "jpg": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/hero-800w.jpg"
-          },
-          {
-            "width": 1200,
-            "avif": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/hero-1200w.avif",
-            "webp": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/hero-1200w.webp",
-            "jpg": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/hero-1200w.jpg"
-          },
-          {
-            "width": 1600,
-            "avif": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/hero-1600w.avif",
-            "webp": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/hero-1600w.webp",
-            "jpg": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/hero-1600w.jpg"
-          }
-        ]
+        "variants": null
       },
       "support": {
         "kind": "support",
@@ -2916,26 +2821,7 @@
         ],
         "basePath": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/support",
         "source": "/images/source/shelf-life/pantry/how-long-does-rice-last/support.jpg",
-        "variants": [
-          {
-            "width": 400,
-            "avif": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/support-400w.avif",
-            "webp": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/support-400w.webp",
-            "jpg": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/support-400w.jpg"
-          },
-          {
-            "width": 800,
-            "avif": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/support-800w.avif",
-            "webp": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/support-800w.webp",
-            "jpg": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/support-800w.jpg"
-          },
-          {
-            "width": 1200,
-            "avif": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/support-1200w.avif",
-            "webp": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/support-1200w.webp",
-            "jpg": "/images/optimized/shelf-life/pantry/how-long-does-rice-last/support-1200w.jpg"
-          }
-        ]
+        "variants": null
       },
       "pin": {
         "kind": "pin",
