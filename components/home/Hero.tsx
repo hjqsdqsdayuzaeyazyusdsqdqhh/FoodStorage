@@ -1,6 +1,6 @@
+import Image from "next/image";
 import { SearchBar } from "@/components/SearchBar";
 import { IconShield, IconSparkle, IconClock } from "@/components/icons";
-import { HeroIllustration } from "./HeroIllustration";
 
 const heroTrust = [
   { icon: IconShield, label: "Cited to USDA, FDA & CDC" },
@@ -36,8 +36,18 @@ export function Hero() {
               ))}
             </ul>
           </div>
-          <div className="hidden lg:block">
-            <HeroIllustration />
+          <div className="min-w-0">
+            <Image
+              src="/images/hero-home.webp"
+              alt="Organized pantry with labeled food containers and fresh ingredients."
+              width={1536}
+              height={1024}
+              sizes="(min-width: 1024px) 650px, 100vw"
+              loading="eager"
+              priority
+              fetchPriority="high"
+              className="h-auto w-full rounded-3xl object-contain shadow-soft"
+            />
           </div>
         </div>
       </div>
