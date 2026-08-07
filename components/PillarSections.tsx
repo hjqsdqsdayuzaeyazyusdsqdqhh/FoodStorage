@@ -13,6 +13,10 @@ const CATEGORY_META: Record<string, { title: string; blurb: string }> = {
   freezer: { title: "Frozen foods", blurb: "Freezer-safe durations and how to prevent freezer burn." },
 };
 
+const GUIDE_IMAGES: Record<string, string> = {
+  "/storage-methods/dry-goods/how-to-store-dry-goods/": "/images/home/how-to-store-dry-goods.webp",
+};
+
 const METHOD_META: Record<string, { title: string; blurb: string }> = {
   freezing: { title: "Freezing", blurb: "How to freeze meat, produce, and leftovers without ruining texture." },
   refrigerator: { title: "Refrigerator storage", blurb: "Keep the fridge at or below 40°F and store food the right way." },
@@ -120,7 +124,7 @@ export function SubcategoryBlocks({ hub }: { hub: ContentPage }) {
             {meta.blurb ? <p className="mb-4 text-body text-brand-ink-700">{meta.blurb}</p> : null}
             <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {pages.map((p) => (
-                <FoodCard key={p.urlPath} page={p} />
+                <FoodCard key={p.urlPath} page={p} image={GUIDE_IMAGES[p.urlPath]} />
               ))}
             </div>
           </div>
