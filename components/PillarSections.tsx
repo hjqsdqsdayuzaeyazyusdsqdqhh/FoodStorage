@@ -15,6 +15,11 @@ const CATEGORY_META: Record<string, { title: string; blurb: string }> = {
 
 const GUIDE_IMAGES: Record<string, string> = {
   "/storage-methods/dry-goods/how-to-store-dry-goods/": "/images/home/how-to-store-dry-goods.webp",
+  "/storage-methods/food-safety/food-safety-temperature-guide/": "/images/home/food-safety-temperature-guide.webp",
+  "/storage-methods/refrigerator/how-to-store-food-in-the-refrigerator/": "/images/home/how-to-store-food-in-the-refrigerator.webp",
+  "/storage-methods/freezing/how-to-freeze-meat/": "/images/home/how-to-freeze-meat.webp",
+  "/storage-methods/freezing/how-to-freeze-leftovers/": "/images/home/how-to-freeze-leftovers.webp",
+  "/storage-methods/canning/canning-basics-for-beginners/": "/images/home/canning-basics-for-beginners.webp",
 };
 
 const METHOD_META: Record<string, { title: string; blurb: string }> = {
