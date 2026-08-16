@@ -25,6 +25,7 @@ related:
 lsi:
   - potato shelf life
   - how long do potatoes last
+  - how long do red potatoes last
   - should potatoes be refrigerated
   - why do potatoes sprout
   - how to store potatoes
@@ -40,6 +41,8 @@ faq:
     a: "Raw potatoes freeze poorly — ice crystals turn their flesh mushy and gray. But cooked potatoes freeze well: freeze mashed, roasted, or boiled potatoes for about 3 months. Frozen fries and hash browns also freeze great. For the freezer, cook first, cool, then freeze in airtight bags."
   - q: Are green or sprouted potatoes safe to eat?
     a: Cut away small sprouts and any green patches, and the rest of the potato is fine. If a potato is heavily green, shriveled, or tastes bitter, throw it out — that much solanine can cause nausea. When in doubt, discard. Sprouting itself is not a safety issue if the potato is still firm.
+  - q: How long do red potatoes last?
+    a: "Red potatoes follow the same rules as other potatoes: 3–5 weeks — sometimes up to 2–3 months — in a cool, dark, dry pantry, in a paper bag or ventilated bin. Their thin, waxy skins hold moisture, so they can keep slightly longer than russets when stored dry, but they also turn soft faster if damp. Never refrigerate them: cold turns their starch to sugar."
 sources:
   - name: USDA FoodKeeper App
     url: https://www.foodsafety.gov/foodkeeper
@@ -66,6 +69,8 @@ Potatoes are the ultimate pantry keeper, but only under the right conditions. Th
 The ideal spot is cool (45–50°F), dark, dry, and ventilated — a pantry, cellar, or cabinet. Keep potatoes in a paper bag or an open basket, never a sealed plastic bag, which traps the moisture that causes rot. Keep them away from onions: stored together they spoil each other faster, since each releases gas and moisture that ages the other.
 
 Sort through the bag occasionally and remove any potato that has started to rot — one bad potato can soften its neighbors. And never wash potatoes before storage; washing adds surface moisture and speeds spoilage. Wash them at cooking time instead.
+
+Varieties follow the same rules but differ slightly in stamina. Red and other waxy potatoes keep about as long as russets — 3–5 weeks, often longer in the right conditions — but their thinner skins turn soft faster if damp, so give them an especially dry, ventilated spot.
 
 ::tip
 Keep potatoes in a paper bag in a dark cabinet, and take onions out of the same bag. The classic mistake is storing them together in a basket — the onion's moisture and the potato's ethylene make both spoil faster.

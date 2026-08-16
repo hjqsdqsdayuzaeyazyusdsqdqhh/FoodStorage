@@ -82,4 +82,4 @@ Cooked pasta is simpler: sour smell, slime, or more than 3–5 days in the fridg
 
 Cooked pasta freezes well when you do it right. Cook it a minute or two underdone, drain, toss with a little oil to keep strands separate, cool completely, then freeze flat in airtight bags — it keeps about 2 months. Bake-and-freeze dishes like lasagna and baked ziti freeze for 2–3 months and can go straight from freezer to oven. Frozen pasta stays safe indefinitely; quality is the only limit.
 
-See [how to store dry goods](/storage-methods/dry-goods/how-to-store-dry-goods/) and [how to freeze leftovers](/storage-methods/freezing/how-to-freeze-leftovers/) for the step-by-step methods.
+See [how to store dry goods](/storage-methods/dry-goods/how-to-store-dry-goods/), [how to freeze leftovers](/storage-methods/freezing/how-to-freeze-leftovers/), and the [FIFO pantry system](/pantry-organization/the-fifo-pantry-system/) for the step-by-step methods.

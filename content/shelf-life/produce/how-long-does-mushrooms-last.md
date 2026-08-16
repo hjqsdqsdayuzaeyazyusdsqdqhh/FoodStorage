@@ -25,6 +25,7 @@ related:
 lsi:
   - mushroom shelf life
   - how long do mushrooms last
+  - how long do cooked mushrooms last in the fridge
   - how to store mushrooms
   - mushrooms in paper bag
   - why do mushrooms get slimy
@@ -38,6 +39,8 @@ faq:
     a: Sliminess is trapped moisture. Mushrooms release water as they sit, and in a sealed plastic bag that water has nowhere to go, so the surface gets sticky and then rots. The fix is storage that breathes — a paper bag or open container — plus handling them as little as possible, since bruising releases more moisture.
   - q: Can you freeze mushrooms?
     a: Yes, but cook them first. Raw mushrooms are mostly water and turn to mush in the freezer; sautéed or roasted mushrooms freeze beautifully for 8–12 months. Freeze cooked mushrooms flat on a tray, then transfer to a bag. Use frozen cooked mushrooms in soups, sauces, risotto, and stir-fries.
+  - q: How long do cooked mushrooms last in the fridge?
+    a: Cooked mushrooms keep 3–4 days in the refrigerator at 40°F or below. Refrigerate them within 2 hours of cooking in a covered container, and reheat leftovers to 165°F. Cooked mushrooms are moist and spoil quickly, so use the calendar — past 3–4 days, discard them.
   - q: How can you tell if mushrooms have gone bad?
     a: "Fresh mushrooms are firm, dry, and evenly colored. Bad ones are slimy, sticky, or wrinkled, with dark or bruised patches, and give off a sour, musty, or \"earthy gone wrong\" smell. A little darkening on the gills is normal as they age. Slimy, smelly, or soft mushrooms go in the compost."
 sources:
@@ -59,7 +62,10 @@ Mushrooms are the driest-looking food that actually despises dry air, and the on
 | Counter | 1 day | Deteriorate fast at room temperature |
 | Fridge (whole, paper bag) | 3–7 days | Paper bag in the crisper drawer |
 | Fridge (sliced) | 3–5 days | Loosely covered container |
+| Fridge (cooked) | 3–4 days | Refrigerate within 2 hours of cooking |
 | Freezer (cooked) | 8–12 months | Sauté or roast first |
+
+Cooked mushrooms are a different story from fresh: once sautéed or roasted, they keep 3–4 days in the fridge in a covered container. Refrigerate them within 2 hours of cooking and reheat leftovers to 165°F.
 
 ## Storage conditions for mushrooms
 

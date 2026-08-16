@@ -85,4 +85,4 @@ Rancid brown rice is not a safety hazard in the way spoiled meat is, but it tast
 
 For emergency or long-term storage, white rice is one of the best foods to stock. Stored in sealed, food-grade containers with oxygen absorbers at cool temperatures, white rice lasts 5–10 years or more. Keep it dry above all — moisture is the only thing that can truly ruin a properly sealed stash.
 
-See [how to store dry goods](/storage-methods/dry-goods/how-to-store-dry-goods/) and the [pantry storage guide](/pantry-organization/how-to-store-pantry-staples/) for the full systems.
+See [how to store dry goods](/storage-methods/dry-goods/how-to-store-dry-goods/), the [pantry staples guide](/pantry-organization/how-to-store-pantry-staples/), and the [FIFO pantry system](/pantry-organization/the-fifo-pantry-system/) for the full systems.
